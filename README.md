@@ -16,11 +16,11 @@ simple mobile app using rick & morty api
 ## TODO Priorities
 
 ### Primary
--[ ] improve the documentation;
--[ ] improve the unit tests;
--[ ] implementing the fetchmore graphql to home characters;
--[ ] implementing the location's page;
+- [ ] improve the documentation;
+- [ ] improve the unit tests;
+- [ ] implementing the fetchmore graphql to home characters;
+- [ ] implementing the location's page;
 
 ### Secondary
--[ ] improve style guide;
--[ ] improve the atomic design;
+- [ ] improve style guide;
+- [ ] improve the atomic design;
